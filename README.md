@@ -4,6 +4,7 @@ BTC-Split-Script
 A simple PHP script to split Bitcoin transactions using a Blockchain.info account
 
 Download Now
+
 [![Download Now as ZIP!](http://i.imgur.com/ZDBKiSa.gif "Download Now as ZIP!")](https://github.com/Initscri/BTC-Split-Script--PHP-/archive/master.zip)
 
 Installation and Setup
