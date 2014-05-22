@@ -52,7 +52,7 @@ if ($_GET['callback_key'] != $callback_key) {
 } else {
     if ($_GET['test'] == true) {
         // testing callback
-        echo "You're script callback is setup correctly! Great Job!";
+        echo "Your script callback is setup correctly! Great Job!";
         return "Works!";
     } else {
         if (!isset($custom_fee)) {
